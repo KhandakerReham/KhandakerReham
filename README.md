@@ -36,13 +36,13 @@ Hey Everyone 👋, I'm QA_Reham
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SQA Testing Animation</title>
   <style>
-    @keyframes blink {
+    keyframes blink {
       0% { opacity: 1; }
       50% { opacity: 0; }
       100% { opacity: 1; }
     }
     .blink-text {
-      animation: blink 1s infinite;
+      animation: blink 1 infinite;
     }
   </style>
 </head>
