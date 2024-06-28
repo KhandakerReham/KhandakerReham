@@ -1,4 +1,4 @@
-<div align="center"> <img src="![1710836035092](https://github.com/KhandakerReham/KhandakerReham/assets/173984729/c4e8efcb-a0d2-4c29-93a5-6e7d25e7f361)
+<div align="center"> <img src="1710836035092
 .png">
 
 - 👋 Hi, I’m @KhandakerReham
