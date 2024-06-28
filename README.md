@@ -22,14 +22,7 @@
   </a> 
   <a href="https://www.atlassian.com/software/jira" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
-  </a> 
-  <p align="left">
-  <a href="https://www.selenium.dev/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/>
   </a>
-</p>
-
-  
   <a href="https://developer.android.com/studio" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
   </a> 
