@@ -31,6 +31,12 @@ Hey Everyone 👋, I'm QA_Reham
   </a>
  
 </p>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="40" stroke="#00cc00" stroke-width="4" fill="transparent" />
+  <path fill="none" stroke="#00cc00" stroke-width="6" d="M20 50 L40 70 L80 30" stroke-dasharray="0,1000" id="check" />
+  <animate xlink:href="#check" attributeName="stroke-dasharray" values="0,1000; 1000,0" dur="1s" repeatCount="indefinite" />
+</svg>
+
 
 
 
