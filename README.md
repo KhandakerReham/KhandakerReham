@@ -1,4 +1,5 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png">
+<div align="center"> <img src="![1710836035092](https://github.com/KhandakerReham/KhandakerReham/assets/173984729/c4e8efcb-a0d2-4c29-93a5-6e7d25e7f361)
+.png">
 
 - 👋 Hi, I’m @KhandakerReham
 - 👀 I’m interested in SQA, AI, and Android apps development.
