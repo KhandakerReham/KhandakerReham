@@ -29,27 +29,7 @@ Hey Everyone 👋, I'm QA_Reham
   <a href="https://www.jetbrains.com/idea/" target="_blank"> 
     <img src="https://https://www.vectorlogo.zone/logos/intellij_idea/intellij_idea-icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SQA Testing Animation</title>
-  <style>
-    keyframes blink {
-      0% { opacity: 1; }
-      50% { opacity: 0; }
-      100% { opacity: 1; }
-    }
-    .blink-text {
-      animation: blink 1 infinite;
-    }
-  </style>
-</head>
-<body>
-  <h1 class="blink-text">SQA Testing</h1>
-</body>
-</html>
+
 
 </p>
 
