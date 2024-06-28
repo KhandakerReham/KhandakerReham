@@ -8,6 +8,9 @@
 
 - <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+Language's and Tool:
+
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <!---
 KhandakerReham/KhandakerReham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
