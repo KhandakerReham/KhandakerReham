@@ -10,7 +10,6 @@
 
 
 ### Programming Languages and Tools
-
 <p align="left">
   <a href="https://www.java.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
@@ -28,10 +27,9 @@
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
   </a> 
   <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/jetbrains_idea/jetbrains_idea-icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
 </p>
-
 
 <!---
 KhandakerReham/KhandakerReham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
