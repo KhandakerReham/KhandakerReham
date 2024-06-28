@@ -11,6 +11,12 @@
 
 ### Programming Languages and Tools
 <p align="left">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" alt="C" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="left">
   <a href="https://www.java.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
   </a> 
