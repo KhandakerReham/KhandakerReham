@@ -27,14 +27,9 @@
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
   </a> 
   <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/intellij_idea/intellij_idea-icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+    <img src="https://https://www.vectorlogo.zone/logos/intellij_idea/intellij_idea-icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="C++" width="40" height="40"/>
-  </a>
+ 
 </p>
 
 
